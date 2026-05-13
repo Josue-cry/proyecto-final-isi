@@ -1,6 +1,6 @@
 # proyecto-final-isi
 
-Crsithian Josué Poveda Betanco
+Cristhian Josué Poveda Betanco
 Ingeniería en Sistemas 
 Grupo #5
 
